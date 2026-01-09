@@ -22,10 +22,7 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 - ⚡ Fun fact: I speak 5 languages (English, Swedish, Spanish, French, Arabic).
 
 <div align="center">
-  <picture>
-    <source srcset="assets/trophies.svg" />
-    <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&v=2" />
-  </picture>
+  <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&v=2" />
 </div>
 
 ---
@@ -34,10 +31,7 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source srcset="assets/tech-icons.svg" />
-      <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark&perline=12&v=2" />
-    </picture>
+    <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark&perline=12&v=2" />
   </a>
 </div>
 
@@ -58,19 +52,10 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source srcset="assets/stats.svg" />
-    <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&cache_seconds=21600&v=2" alt="Tarek's GitHub Stats" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&cache_seconds=21600&v=2" alt="Tarek's GitHub Stats" />
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="assets/top-langs.svg" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=21600&v=2" alt="Top Languages" />
-  </picture>
-  <picture>
-    <source srcset="assets/streak.svg" />
-    <img src="https://streak-stats.demolab.com/?user=TarekAaraichi&theme=dracula&hide_border=true&v=2" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=21600&v=2" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=TarekAaraichi&theme=dracula&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
