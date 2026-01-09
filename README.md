@@ -20,6 +20,10 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 - 🌱 I’m currently learning **Advanced AWS Architecture & Embedded C++**
 - ⚡ Fun fact: I speak 5 languages (English, Swedish, Spanish, French, Arabic).
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&no-frame=true&column=7&margin-w=15" />
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
