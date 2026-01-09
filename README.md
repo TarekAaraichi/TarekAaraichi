@@ -53,33 +53,10 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true" alt="Tarek's GitHub Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=TarekAaraichi&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Detailed Activity Overview
-
-<div align="center">
-  <!-- Professional Metrics Dashboard (Self-Updating) -->
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" onerror="this.style.display='none'" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/TarekAaraichi?style=for-the-badge&label=Followers&color=0077B5&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/TarekAaraichi/AWS-Serverless-IoT-Fleet-Management-System?style=for-the-badge&label=Project%20Stars&color=0077B5&logo=github" alt="Stars" />
-</div>
-
-<br />
-
-> [!NOTE]
-> Detailed analytics are updated every 24 hours. The main dashboard above is powered by GitHub Actions for maximum reliability.
+![Stats](https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&hide_border=true)
 
 ---
 
