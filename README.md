@@ -30,7 +30,7 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark" />
+    <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark&perline=12" />
   </a>
 </div>
 
