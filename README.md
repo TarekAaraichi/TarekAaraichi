@@ -54,9 +54,7 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 ### 📊 Analytical Overview
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Live%20Metrics-brightgreen?style=flat-square" alt="Metrics Status" />
-  <br />
-  <!-- This image will appear once you add the METRICS_TOKEN secret and the Action runs successfully -->
+  <!-- Professional Metrics Dashboard -->
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" onerror="this.style.display='none'" />
 </div>
 
@@ -64,8 +62,7 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/TarekAaraichi?style=for-the-badge&label=Followers&color=0077B5&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/all/TarekAaraichi?style=for-the-badge&label=Repositories&color=0077B5&logo=github" alt="Repositories" />
-  <img src="https://img.shields.io/github/stars/TarekAaraichi/AWS-Serverless-IoT-Fleet-Management-System?style=for-the-badge&label=Featured%20Project%20Stars&color=0077B5&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/TarekAaraichi?style=for-the-badge&label=Total%20Stars&color=0077B5&logo=github" alt="Total Stars" />
 </div>
 
 <br />
