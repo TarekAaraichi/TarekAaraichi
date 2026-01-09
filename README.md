@@ -22,17 +22,12 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| **Cloud & Backend** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) |
-| **IoT & Tools** | ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark" />
+  </a>
 </div>
 
 ---
@@ -57,3 +52,6 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
