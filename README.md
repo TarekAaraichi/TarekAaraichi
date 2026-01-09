@@ -1,19 +1,20 @@
 <div align="center">
 
-  # Hi there, I'm Tarek Aaraichi! 👋
-  
-  ### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
-  
-  *Bridging the gap between Physical Energy Systems and Cloud Software.*
+# Hi there, I'm Tarek Aaraichi! 👋
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarek-aaraichi)
-  [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/TarekAaraichi)
+### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
+
+_Bridging the gap between Physical Energy Systems and Cloud Software._
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarek-aaraichi)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/TarekAaraichi)
 
 </div>
 
 ---
 
 ### 🚀 About Me
+
 I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **Sustainable Energy Systems**, now specializing in **System & Software Development**. I build systems that connect hardware to the cloud, focusing on IoT, Digital Twins, and Smart Energy solutions.
 
 - 🔭 I’m currently working on **Serverless IoT Systems & Digital Twins**
@@ -21,7 +22,10 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 - ⚡ Fun fact: I speak 5 languages (English, Swedish, Spanish, French, Arabic).
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&no-frame=true&column=7&margin-w=15" />
+  <picture>
+    <source srcset="assets/trophies.svg" />
+    <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&v=2" />
+  </picture>
 </div>
 
 ---
@@ -30,15 +34,20 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark" />
+    <picture>
+      <source srcset="assets/tech-icons.svg" />
+      <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark&perline=12&v=2" />
+    </picture>
   </a>
 </div>
 
 ---
 
 ### 🏆 Featured Project: AWS Serverless Fleet Management
+
 **A Cloud-Native Digital Twin Prototype**
-> *Developed a serverless architecture to simulate and visualize real-time telemetry from a fleet of vehicles in Stockholm.*
+
+> _Developed a serverless architecture to simulate and visualize real-time telemetry from a fleet of vehicles in Stockholm._
 
 - **Tech:** AWS IoT Core, DynamoDB, Lambda, React, Python Simulator.
 - **Highlights:** Secure mTLS communication, 100% Serverless, Real-time map visualization.
@@ -49,10 +58,19 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true" alt="Tarek's GitHub Stats" />
+  <picture>
+    <source srcset="assets/stats.svg" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&cache_seconds=21600&v=2" alt="Tarek's GitHub Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source srcset="assets/top-langs.svg" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=21600&v=2" alt="Top Languages" />
+  </picture>
+  <picture>
+    <source srcset="assets/streak.svg" />
+    <img src="https://streak-stats.demolab.com/?user=TarekAaraichi&theme=dracula&hide_border=true&v=2" alt="GitHub Streak" />
+  </picture>
 </p>
