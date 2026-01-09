@@ -49,11 +49,11 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Tarek's GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=dracula&hide_border=true" height="180" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
