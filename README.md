@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tarek-aaraichi)
 [![](https://img.shields.io/badge/Portfoilo-Explore-black?style=flat-square&logo=github)](https://github.com/TarekAaraichi)
-[![](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.aaraichi@gmail.com)
+[![](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarek.aaraichi@gmail.com)
 
 ---
 
@@ -54,19 +54,24 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 ### 📊 Analytical Overview
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=adbac7" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=adbac7" alt="Languages" width="45%" />
+  <img src="https://img.shields.io/badge/Status-Live%20Metrics-brightgreen?style=flat-square" alt="Metrics Status" />
+  <br />
+  <!-- This image will appear once you add the METRICS_TOKEN secret and the Action runs -->
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" onerror="this.src='https://img.shields.io/badge/Analytics-Generating...-yellow?style=for-the-badge'" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=adbac7&sideLabels=adbac7" alt="Streak" width="94%" />
+  <img src="https://img.shields.io/github/commit-activity/y/TarekAaraichi?style=for-the-badge&label=Annual%20Commits&color=0077B5" alt="Commits" />
+  <img src="https://img.shields.io/github/languages/count/TarekAaraichi?style=for-the-badge&label=Languages&color=0077B5" alt="Languages Count" />
+  <img src="https://img.shields.io/github/stars/TarekAaraichi?style=for-the-badge&label=Stars&color=0077B5" alt="Stars" />
 </div>
+
+<br />
+
+> [!NOTE]
+> Detailed analytics are updated every 24 hours. The main dashboard above is powered by GitHub Actions for maximum reliability.
 
 ---
 
