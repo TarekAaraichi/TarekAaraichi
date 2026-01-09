@@ -28,12 +28,10 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,matlab,html,css,assembly,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,java,js,ts,prisma,matlab,docker,html,css,md&theme=dark" />
   <br/>
   
-  <img src="https://skillicons.dev/icons?i=aws,react,nodejs,vite,dynamodb,mysql,git,github,vscode,cmake,idea,linux&theme=dark" />
-
-</div>
+  <img src="https://skillicons.dev/icons?i=aws,react,nextjs,nodejs,vite,dynamodb,postgres,mysql,git,github,vscode,cmake,idea,linux&theme=dark" />
 
 ---
 
