@@ -21,18 +21,26 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 - 🌱 I’m currently learning **Advanced AWS Architecture & Embedded C++**
 - ⚡ Fun fact: I speak 5 languages (English, Swedish, Spanish, French, Arabic).
 
-<div align="center">
-  <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&v=2" />
-</div>
-
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=aws,python,cpp,react,js,html,css,nodejs,dynamodb,git,github,vscode,vite,mqtt&theme=dark&perline=12&v=2" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/MQTT-3C52F0?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
 </div>
 
 ---
@@ -52,9 +60,11 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&cache_seconds=21600&v=2" alt="Tarek's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-1000+-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/github/followers/TarekAaraichi?style=for-the-badge&logo=github" alt="Followers" />
 </p>
 
+<!-- Note: The following cards are dynamic and may occasionally fail due to external service availability -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=21600&v=2" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=TarekAaraichi&theme=dracula&hide_border=true&v=2" alt="GitHub Streak" />
