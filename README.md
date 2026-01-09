@@ -32,6 +32,16 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
   <br/>
   
   <img src="https://skillicons.dev/icons?i=aws,react,nextjs,nodejs,vite,dynamodb,postgres,mysql,git,github,vscode,cmake,idea,linux&theme=dark" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=Leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FUDP-Networking-007ACC?style=flat" />
+  <img src="https://img.shields.io/badge/JDBC-Java%20DB-f89820?style=flat" />
+  <img src="https://img.shields.io/badge/WebSockets-STOMP-010101?style=flat&logo=socket.io&logoColor=white" />
+
+</div>
 
 ---
 
