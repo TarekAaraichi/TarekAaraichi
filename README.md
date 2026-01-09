@@ -56,6 +56,3 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
