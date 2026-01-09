@@ -56,16 +56,16 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Live%20Metrics-brightgreen?style=flat-square" alt="Metrics Status" />
   <br />
-  <!-- This image will appear once you add the METRICS_TOKEN secret and the Action runs -->
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" onerror="this.src='https://img.shields.io/badge/Analytics-Generating...-yellow?style=for-the-badge'" />
+  <!-- This image will appear once you add the METRICS_TOKEN secret and the Action runs successfully -->
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" onerror="this.style.display='none'" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/TarekAaraichi?style=for-the-badge&label=Annual%20Commits&color=0077B5" alt="Commits" />
-  <img src="https://img.shields.io/github/languages/count/TarekAaraichi?style=for-the-badge&label=Languages&color=0077B5" alt="Languages Count" />
-  <img src="https://img.shields.io/github/stars/TarekAaraichi?style=for-the-badge&label=Stars&color=0077B5" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/TarekAaraichi?style=for-the-badge&label=Followers&color=0077B5&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/all/TarekAaraichi?style=for-the-badge&label=Repositories&color=0077B5&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/TarekAaraichi/AWS-Serverless-IoT-Fleet-Management-System?style=for-the-badge&label=Featured%20Project%20Stars&color=0077B5&logo=github" alt="Stars" />
 </div>
 
 <br />
