@@ -1,18 +1,36 @@
 <div align="center">
 
-# 👨‍💻 Tarek Aaraichi
+  # 👨‍💻 Tarek Aaraichi
 
-### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
+  ### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
 
-**Bridging the gap between Physical Energy Systems and Cloud Software**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35eb93&center=true&vCenter=true&width=435&lines=Bridging+Physical+Systems+%26+Cloud;Building+Digital+Twins;Serverless+IoT+Architectures" alt="Typing SVG" />
+  </a>
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tarek-aaraichi)
-[![](https://img.shields.io/badge/Portfoilo-Explore-black?style=flat-square&logo=github)](https://github.com/TarekAaraichi)
-[![](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarek.aaraichi@gmail.com)
+  <br/>
+
+  <a href="https://www.linkedin.com/in/tarek-aaraichi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tarek.aaraichi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TarekAaraichi">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TarekAaraichi&theme=dracula&no-frame=true&column=7&margin-w=15" />
 </div>
+
+---
 
 ### 🚀 Summary
 
@@ -26,26 +44,23 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 
 ### 🛠️ Professional Toolbox
 
-| Category        | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                 |
-| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud & IoT** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-3C52F0?style=flat&logo=mqtt&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![IoT Core](https://img.shields.io/badge/IoT_Core-FF9900?style=flat)      |
-| **Languages**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/Web-E34F26?style=flat&logo=html5) |
-| **Frameworks**  | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)                                                                                  |
-| **DevOps**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)                                                                          |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,python,cpp,js,react,nodejs,vite,html,css,dynamodb,git,github,vscode,mqtt&theme=dark" />
+  </a>
+</div>
 
 ---
 
-### 🏆 Featured Spotlight
+### 🎖️ Featured Project
 
 <div align="center">
 
-> **[AWS Serverless Fleet Management](https://github.com/TarekAaraichi/AWS-Serverless-IoT-Fleet-Management-System)** > _A Cloud-Native Digital Twin Prototype_
->
-> 🚀 **Mission:** Build a serverless architecture to simulate and visualize real-time telemetry from a vehicle fleet in Stockholm.
->
-> `AWS IoT Core` `DynamoDB` `Lambda` `React` `Python Simulator`
->
-> **[Explore Repository](https://github.com/TarekAaraichi/AWS-Serverless-IoT-Fleet-Management-System)**
+| **AWS Serverless Fleet Management** |
+| :--- |
+| **A Cloud-Native Digital Twin Prototype** |
+| 🚀 **Mission:** Built a serverless architecture to simulate and visualize real-time telemetry from a vehicle fleet in Stockholm.<br><br>🛠️ **Stack:** `AWS IoT Core` `DynamoDB` `Lambda` `React` `Python` |
+| [**Explore Repository**](https://github.com/TarekAaraichi/AWS-Serverless-IoT-Fleet-Management-System) |
 
 </div>
 
@@ -53,18 +68,15 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAaraichi&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=8" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAaraichi&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="streak graph" />
+</div>
 
 ---
 
-### 📬 Connect & Collaborate
-
-I am always open to discussing **IoT architectures**, **Energy Optimization**, or **Cloud Infrastructure**. Feel free to reach out for collaboration or just a technical chat!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tarek-aaraichi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:t.aaraichi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <i>Let's connect and discuss <b>IoT Architectures</b> & <b>Energy Optimization</b>!</i>
+</div>
