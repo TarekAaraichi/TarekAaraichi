@@ -50,7 +50,7 @@ I am a hybrid engineer with a background in **Energy Engineering (MSc)** and **S
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Tarek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekAaraichi&show_icons=true&theme=dracula&hide_border=true" alt="Tarek's GitHub Stats" />
 </p>
 
 <p align="center">
