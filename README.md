@@ -49,7 +49,7 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TarekAaraichi&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=TarekAaraichi&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
   <br/>
   
