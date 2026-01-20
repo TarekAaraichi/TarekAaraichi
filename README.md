@@ -1,12 +1,12 @@
 <div align="center">
 
-  # 👨‍💻 Tarek Aaraichi
+# 👨‍💻 Tarek Aaraichi
 
-  ### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
+### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
 
   <br>
 
-  > *<span style="color: #35eb93; font-family: 'Fira Code', monospace; font-size: 1.1em;">"Bridging the gap between Physical Energy Systems and Cloud Software"</span>*
+> _<span style="color: #35eb93; font-family: 'Fira Code', monospace; font-size: 1.1em;">"Bridging the gap between Physical Energy Systems and Cloud Software"</span>_
 
   <br>
 
@@ -40,6 +40,7 @@ I am a **Hybrid Systems Engineer** specializing in the intersection of energy in
   <img src="https://img.shields.io/badge/TCP%2FUDP-Networking-007ACC?style=flat" />
   <img src="https://img.shields.io/badge/JDBC-Java%20DB-f89820?style=flat" />
   <img src="https://img.shields.io/badge/WebSockets-STOMP-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white" />
 
 </div>
 
