@@ -2,7 +2,7 @@
 
 # 👨‍💻 Tarek Aaraichi
 
-### MSc Energy Engineer | IoT & Embedded Systems Developer | Full Stack
+### MSc Energy Engineer | IoT & Embedded Systems | Full Stack Developer
 
   <br>
 
